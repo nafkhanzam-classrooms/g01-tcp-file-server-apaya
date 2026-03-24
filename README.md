@@ -14,6 +14,7 @@ https://youtu.be/yyBKA5MhLOs
 ```
 
 ## Penjelasan Program
+`` Aplikasi ini merupakan sistem client-server berbasis TCP/IP yang mendukung fitur broadcasting pesan dan transfer file. Sistem ini dirancang untuk membandingkan empat metode penanganan koneksi (concurrency) pada sisi server, menggunakan satu program client yang seragam.``
 
 ## Screenshot Hasil
-![imagealt]{https://github.com/nafkhanzam-classrooms/g01-tcp-file-server-apaya/blob/main/Screenshot%202026-03-25%20043729.png}
+![imagealt](https://github.com/nafkhanzam-classrooms/g01-tcp-file-server-apaya/blob/main/Screenshot%202026-03-25%20043729.png)
