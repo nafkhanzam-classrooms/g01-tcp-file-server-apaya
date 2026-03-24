@@ -16,4 +16,4 @@ https://youtu.be/yyBKA5MhLOs
 ## Penjelasan Program
 
 ## Screenshot Hasil
-![imagealt]{
+![imagealt]{https://github.com/nafkhanzam-classrooms/g01-tcp-file-server-apaya/blob/main/Screenshot%202026-03-25%20043729.png}
